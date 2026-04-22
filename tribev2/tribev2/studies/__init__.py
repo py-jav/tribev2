@@ -8,3 +8,4 @@ from .algonauts2025 import Algonauts2025, Algonauts2025Bold
 from .lahner2024bold import Lahner2024Bold
 from .lebel2023bold import Lebel2023Bold
 from .wen2017 import Wen2017
+from .japaneeg import JapanEEG
